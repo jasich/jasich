@@ -1,0 +1,35 @@
+baseurl = "https://jasich.com"
+languageCode = "en"
+title = "jasich"
+theme = "hemingway2"
+copyright = "&copy; <a href=\"https://github.com/jasich\">Jason Sich</a> 2017"
+# disqusShortname = "shortname"
+googleAnalytics = ""
+description = "Personal Blog of Jason Sich"
+keywords = ["software", "programming"]
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/jasich"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/jasich"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "https://instagram.com/jasonsich"
+fa_icon = "fa-instagram"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
