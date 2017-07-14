@@ -16,7 +16,7 @@ category = "categories"
 
 [params.highlight]
 style = "github"
-languages = ["go", "dockerfile"]
+languages = ["clojure"]
 
 [[params.social]]
 url = "https://github.com/jasich"
